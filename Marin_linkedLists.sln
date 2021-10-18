@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marin_linkedLists", "Marin_linkedLists\Marin_linkedLists.csproj", "{B5CA0900-1A04-4126-AEB0-3F8AF4ADDA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CA0900-1A04-4126-AEB0-3F8AF4ADDA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CA0900-1A04-4126-AEB0-3F8AF4ADDA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CA0900-1A04-4126-AEB0-3F8AF4ADDA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CA0900-1A04-4126-AEB0-3F8AF4ADDA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE26ECD6-525E-40A8-94E6-75293B94644D}
+	EndGlobalSection
+EndGlobal
